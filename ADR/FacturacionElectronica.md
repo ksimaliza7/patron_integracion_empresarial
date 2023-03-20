@@ -13,7 +13,7 @@ La integración de la facturación electrónica en un ERP Odoo se debe adaptar m
 
 ## Decision
 
-El proveedor elegido sería TRESCLOUD que brinda este servicio mediante la migración a Odoo versión 16 que cuenta con facturación electrónica ecuatoriana de forma estándar y sin costo adicional.
+El proveedor TRESCLOUD que brinda este servicio mediante la migración a Odoo versión 16 que cuenta con facturación electrónica ecuatoriana de forma estándar y sin costo adicional.
 
 ## Consequences
 
